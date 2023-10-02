@@ -14,5 +14,5 @@ data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIH
 2. Check the function selector
 3. Decode the calldata (check the parameters)
 
-cast sig '**$_$**$$$$$__$$_$$$_$$**$$\_**$$(address,address,uint256)'
-cast sig "__$_$__$$$$$__$$_$$$_$$__$$\_\_\_$$(address,address,uint256)"
+`cast sig '**$_$**$$$$$__$$_$$$_$$**$$\_**$$(address,address,uint256)'`
+`cast sig "__$_$__$$$$$__$$_$$$_$$__$$\_\_\_$$(address,address,uint256)"`
