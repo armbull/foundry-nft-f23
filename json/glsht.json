@@ -1,0 +1,27 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Light Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Grey T-shirt"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cute"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Long"
+      }
+    ],
+    "description": "My beauty girl.",
+    "image": "https://ipfs.io/ipfs/Qma4x6ccMDZoJYYaY6UjtsJiREwJ1BxLKraZahqSQ6n5VW?filename=bty.png",
+    "name": "Beauty Gulshat #0"
+  }
